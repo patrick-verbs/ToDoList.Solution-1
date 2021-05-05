@@ -1,0 +1,12 @@
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csprojAssemblyReference.cache
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
+/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
