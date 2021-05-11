@@ -44,3 +44,4 @@
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.pdb
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
+/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/Razor/Views/Home/CreateForm.cshtml.g.cs
