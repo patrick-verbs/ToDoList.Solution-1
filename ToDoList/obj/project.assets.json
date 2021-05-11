@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/carlosmendez/.nuget/packages/": {}
+    "/Users/seth/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj",
+      "projectUniqueName": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj",
-      "packagesPath": "/Users/carlosmendez/.nuget/packages/",
-      "outputPath": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/",
+      "projectPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
+      "packagesPath": "/Users/seth/.nuget/packages/",
+      "outputPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/carlosmendez/.nuget/NuGet/NuGet.Config"
+        "/Users/seth/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -54,6 +54,9 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
