@@ -2066,7 +2066,10 @@
         },
         "runtime": {
           "bin/placeholder/ToDoList.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -6914,19 +6917,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/carlosmendez/.nuget/packages/": {}
+    "/Users/seth/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
+      "projectUniqueName": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList.Tests/ToDoList.Tests.csproj",
-      "packagesPath": "/Users/carlosmendez/.nuget/packages/",
-      "outputPath": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList.Tests/obj/",
+      "projectPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj",
+      "packagesPath": "/Users/seth/.nuget/packages/",
+      "outputPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/carlosmendez/.nuget/NuGet/NuGet.Config"
+        "/Users/seth/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -6938,8 +6941,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj": {
-              "projectPath": "/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/ToDoList.csproj"
+            "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj": {
+              "projectPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj"
             }
           }
         }
