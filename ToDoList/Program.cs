@@ -19,9 +19,6 @@ namespace ToDoList
   }
 }
 
-
-
-
 // using System;
 // using ToDoList.Models;
 // using System.Collections.Generic;

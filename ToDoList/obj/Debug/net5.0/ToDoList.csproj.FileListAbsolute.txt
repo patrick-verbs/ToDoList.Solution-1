@@ -1,18 +1,3 @@
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.dll
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ref/ToDoList.dll
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.pdb
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csprojAssemblyReference.cache
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfoInputs.cache
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.AssemblyInfo.cs
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CoreCompileInputs.cache
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.dll
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.pdb
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.json
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.dev.json
-/Users/carlosmendez/Desktop/ToDoList.Solution/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/bin/Debug/net5.0/ToDoList.deps.json
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.json
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/bin/Debug/net5.0/ToDoList.runtimeconfig.dev.json
@@ -36,6 +21,8 @@
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.TagHelpers.output.cache
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.RazorCoreGenerate.cache
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/Razor/Views/Items/CreateForm.cshtml.g.cs
+/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cache
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.RazorTargetAssemblyInfo.cs
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.Views.pdb
@@ -44,5 +31,3 @@
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.pdb
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
 /Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/ToDoList.csproj.CopyComplete
-/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/Razor/Views/Items/CreateForm.cshtml.g.cs
-/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/Debug/net5.0/Razor/Views/Items/Index.cshtml.g.cs
