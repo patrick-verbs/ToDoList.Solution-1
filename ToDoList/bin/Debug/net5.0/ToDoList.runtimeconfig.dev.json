@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/seth/.dotnet/store/|arch|/|tfm|",
-      "/Users/seth/.nuget/packages"
+      "/Users/torch/.dotnet/store/|arch|/|tfm|",
+      "/Users/torch/.nuget/packages"
     ]
   }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj": {}
+    "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj": {}
   },
   "projects": {
-    "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj": {
+    "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj",
+        "projectUniqueName": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj",
         "projectName": "ToDoList.Tests",
-        "projectPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj",
-        "packagesPath": "/Users/seth/.nuget/packages/",
-        "outputPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList.Tests/obj/",
+        "projectPath": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList.Tests/ToDoList.Tests.csproj",
+        "packagesPath": "/Users/torch/.nuget/packages/",
+        "outputPath": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/seth/.nuget/NuGet/NuGet.Config"
+          "/Users/torch/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj": {
-                "projectPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj"
+              "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/ToDoList.csproj": {
+                "projectPath": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/ToDoList.csproj"
               }
             }
           }
@@ -74,17 +74,17 @@
         }
       }
     },
-    "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj": {
+    "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
+        "projectUniqueName": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
-        "packagesPath": "/Users/seth/.nuget/packages/",
-        "outputPath": "/Users/seth/Desktop/ToDoList.Solution-1/ToDoList/obj/",
+        "projectPath": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
+        "packagesPath": "/Users/torch/.nuget/packages/",
+        "outputPath": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/seth/.nuget/NuGet/NuGet.Config"
+          "/Users/torch/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
