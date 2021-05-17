@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mB50ZG5w8jHk2aBzHyPyHmv1TUbm0YDP5YC/RcLJTS+BFMMRN6zZJxvxhtb51OYGFguAikvIt03zi1KJWeFgIw==",
+  "dgSpecHash": "vzTFvF2cDAxG7V1ygZd05Iwufk3LtsRDBMxPb6P1eYn6H06mesKYBGaggf7qbpSoebNqn5PIiye6GdLPZFefyA==",
   "success": true,
-  "projectFilePath": "/Users/torch/Desktop/Epicodus/Week9/ToDoList.Solution-1/ToDoList/ToDoList.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Patrick\\OneDrive\\Studio\\Git\\Epicodus\\ToDoList.Solution-1\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Patrick\\.nuget\\packages\\mysqlconnector\\0.69.0\\mysqlconnector.0.69.0.nupkg.sha512"
+  ],
   "logs": []
 }
